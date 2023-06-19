@@ -1,0 +1,7 @@
+textarea {
+	outline: none;
+	border: none;
+	border-radius: 0;
+	resize: none;
+	background-color: hwb(216 5% 80%);
+}
